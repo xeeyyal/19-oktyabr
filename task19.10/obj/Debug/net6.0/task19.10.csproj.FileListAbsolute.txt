@@ -1,0 +1,14 @@
+D:\task19.10\task19.10\obj\Debug\net6.0\task19.10.GeneratedMSBuildEditorConfig.editorconfig
+D:\task19.10\task19.10\obj\Debug\net6.0\task19.10.AssemblyInfoInputs.cache
+D:\task19.10\task19.10\obj\Debug\net6.0\task19.10.AssemblyInfo.cs
+D:\task19.10\task19.10\obj\Debug\net6.0\task19.10.csproj.CoreCompileInputs.cache
+D:\task19.10\task19.10\bin\Debug\net6.0\task19.10.exe
+D:\task19.10\task19.10\bin\Debug\net6.0\task19.10.deps.json
+D:\task19.10\task19.10\bin\Debug\net6.0\task19.10.runtimeconfig.json
+D:\task19.10\task19.10\bin\Debug\net6.0\task19.10.dll
+D:\task19.10\task19.10\bin\Debug\net6.0\task19.10.pdb
+D:\task19.10\task19.10\obj\Debug\net6.0\task19.10.dll
+D:\task19.10\task19.10\obj\Debug\net6.0\refint\task19.10.dll
+D:\task19.10\task19.10\obj\Debug\net6.0\task19.10.pdb
+D:\task19.10\task19.10\obj\Debug\net6.0\task19.10.genruntimeconfig.cache
+D:\task19.10\task19.10\obj\Debug\net6.0\ref\task19.10.dll
